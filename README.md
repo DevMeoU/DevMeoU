@@ -52,7 +52,7 @@ A tool that helps collect, detect, and block unwanted requests.
 
 ## 📫 Contact Me  
 📞 **Phone:** 0387 364 029  
-🌐 **Website:** [DevMeoU.github.io]([(https://devmeou.github.io/ducson9112k/)])  
+🌐 **Website:** [DevMeoU.github.io](https://devmeou.github.io/ducson9112k/)
 📌 **Facebook:** [ducson9112k](https://www.facebook.com/ducson9112k)  
 
 ⭐ **If you find my profile interesting, give it a ⭐!**  
